@@ -1,0 +1,15 @@
+/Users/hugolextrait/Desktop/LEXTRAIT_Hugo_TP3_ST2TRD/obj/Debug/net6.0/LEXTRAIT_Hugo_TP3_ST2TRD.csproj.AssemblyReference.cache
+/Users/hugolextrait/Desktop/LEXTRAIT_Hugo_TP3_ST2TRD/obj/Debug/net6.0/LEXTRAIT_Hugo_TP3_ST2TRD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugolextrait/Desktop/LEXTRAIT_Hugo_TP3_ST2TRD/obj/Debug/net6.0/LEXTRAIT_Hugo_TP3_ST2TRD.AssemblyInfoInputs.cache
+/Users/hugolextrait/Desktop/LEXTRAIT_Hugo_TP3_ST2TRD/obj/Debug/net6.0/LEXTRAIT_Hugo_TP3_ST2TRD.AssemblyInfo.cs
+/Users/hugolextrait/Desktop/LEXTRAIT_Hugo_TP3_ST2TRD/obj/Debug/net6.0/LEXTRAIT_Hugo_TP3_ST2TRD.csproj.CoreCompileInputs.cache
+/Users/hugolextrait/Desktop/LEXTRAIT_Hugo_TP3_ST2TRD/bin/Debug/net6.0/LEXTRAIT_Hugo_TP3_ST2TRD
+/Users/hugolextrait/Desktop/LEXTRAIT_Hugo_TP3_ST2TRD/bin/Debug/net6.0/LEXTRAIT_Hugo_TP3_ST2TRD.deps.json
+/Users/hugolextrait/Desktop/LEXTRAIT_Hugo_TP3_ST2TRD/bin/Debug/net6.0/LEXTRAIT_Hugo_TP3_ST2TRD.runtimeconfig.json
+/Users/hugolextrait/Desktop/LEXTRAIT_Hugo_TP3_ST2TRD/bin/Debug/net6.0/LEXTRAIT_Hugo_TP3_ST2TRD.dll
+/Users/hugolextrait/Desktop/LEXTRAIT_Hugo_TP3_ST2TRD/bin/Debug/net6.0/ref/LEXTRAIT_Hugo_TP3_ST2TRD.dll
+/Users/hugolextrait/Desktop/LEXTRAIT_Hugo_TP3_ST2TRD/bin/Debug/net6.0/LEXTRAIT_Hugo_TP3_ST2TRD.pdb
+/Users/hugolextrait/Desktop/LEXTRAIT_Hugo_TP3_ST2TRD/obj/Debug/net6.0/LEXTRAIT_Hugo_TP3_ST2TRD.dll
+/Users/hugolextrait/Desktop/LEXTRAIT_Hugo_TP3_ST2TRD/obj/Debug/net6.0/ref/LEXTRAIT_Hugo_TP3_ST2TRD.dll
+/Users/hugolextrait/Desktop/LEXTRAIT_Hugo_TP3_ST2TRD/obj/Debug/net6.0/LEXTRAIT_Hugo_TP3_ST2TRD.pdb
+/Users/hugolextrait/Desktop/LEXTRAIT_Hugo_TP3_ST2TRD/obj/Debug/net6.0/LEXTRAIT_Hugo_TP3_ST2TRD.genruntimeconfig.cache

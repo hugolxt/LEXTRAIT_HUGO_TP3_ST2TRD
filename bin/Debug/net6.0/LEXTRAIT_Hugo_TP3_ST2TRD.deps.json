@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LEXTRAIT_Hugo_TP3_ST2TRD/1.0.0": {
+        "runtime": {
+          "LEXTRAIT_Hugo_TP3_ST2TRD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LEXTRAIT_Hugo_TP3_ST2TRD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

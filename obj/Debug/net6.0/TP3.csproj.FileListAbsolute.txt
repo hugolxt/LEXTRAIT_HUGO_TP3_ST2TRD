@@ -1,0 +1,15 @@
+/Users/hugolextrait/Desktop/TP3/bin/Debug/net6.0/TP3
+/Users/hugolextrait/Desktop/TP3/bin/Debug/net6.0/TP3.deps.json
+/Users/hugolextrait/Desktop/TP3/bin/Debug/net6.0/TP3.runtimeconfig.json
+/Users/hugolextrait/Desktop/TP3/bin/Debug/net6.0/TP3.dll
+/Users/hugolextrait/Desktop/TP3/bin/Debug/net6.0/ref/TP3.dll
+/Users/hugolextrait/Desktop/TP3/bin/Debug/net6.0/TP3.pdb
+/Users/hugolextrait/Desktop/TP3/obj/Debug/net6.0/TP3.csproj.AssemblyReference.cache
+/Users/hugolextrait/Desktop/TP3/obj/Debug/net6.0/TP3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugolextrait/Desktop/TP3/obj/Debug/net6.0/TP3.AssemblyInfoInputs.cache
+/Users/hugolextrait/Desktop/TP3/obj/Debug/net6.0/TP3.AssemblyInfo.cs
+/Users/hugolextrait/Desktop/TP3/obj/Debug/net6.0/TP3.csproj.CoreCompileInputs.cache
+/Users/hugolextrait/Desktop/TP3/obj/Debug/net6.0/TP3.dll
+/Users/hugolextrait/Desktop/TP3/obj/Debug/net6.0/ref/TP3.dll
+/Users/hugolextrait/Desktop/TP3/obj/Debug/net6.0/TP3.pdb
+/Users/hugolextrait/Desktop/TP3/obj/Debug/net6.0/TP3.genruntimeconfig.cache
